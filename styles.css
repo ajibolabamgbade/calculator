@@ -1,0 +1,25 @@
+.container{
+	padding: 50px
+}
+
+.head{
+	background-color: lightgrey;
+}
+
+.head h1{
+	float: right;
+}
+
+.top{
+	background-color: grey;
+	border: 1px solid white;
+	text-align: center;
+
+}
+
+
+.bottom{
+	background-color: orange;
+	border: 1px solid white;
+	text-align: center;
+}
